@@ -1,0 +1,4 @@
+name : redis_test
+description : redis_test
+dependencies:  
+  redis_client: any
